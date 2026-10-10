@@ -372,5 +372,5 @@ If the an error is found an appropriate error message will be displayed.
 If the error was with ``isort`` then the tool will go ahead and fix them for
 you. Review the changes and re-stage for commit if you are happy with
 them.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
